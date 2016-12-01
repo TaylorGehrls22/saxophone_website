@@ -14,8 +14,8 @@ Contents:
    saxophonemusicians/saxophonemusicians.rst
    saxophone_history/saxophone_history.rst
    locations/locations.rst
-   repair.rst/repair.rst
-   home.rst/home.rst
+   repair/repair.rst
+   home/home.rst
    products/products.rst
    accessories/accessories.rst
    saxmusicians/saxmusicians.rst
