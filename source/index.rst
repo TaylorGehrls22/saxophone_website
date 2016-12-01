@@ -9,7 +9,7 @@ Welcome to the Saxophone Website!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    saxophonemusicians/saxophonemusicians.rst
    saxophone_history/saxophone_history.rst
