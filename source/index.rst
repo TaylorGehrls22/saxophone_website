@@ -22,6 +22,10 @@ Contents:
    saxmusicians/saxmusicians.rst
    sax_history/sax_history.rst
    concert_blog/concert_blog.rst
+<<<<<<< HEAD
 >>>>>>> c9c81e7e137f45fa1d7a895966176ff8b08a70a4
+=======
+   testimonials/testimonials.rst
+>>>>>>> 62ad9b94ce7c4506435d669db5c850d907616ddb
 
 
