@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Saxophone's documentation!
+Welcome to the Saxophone Website!
 =====================================
 
 Contents:
@@ -11,14 +11,15 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   saxophonemusicians/saxophonemusicians.rst
+   saxophone_history/saxophone_history.rst
+   locations/locations.rst
+   repair.rst/repair.rst
    products/products.rst
    accessories/accessories.rst
    saxmusicians/saxmusicians.rst
    sax_history/sax_history.rst
    concert_blog/concert_blog.rst
    testimonials/testimonials.rst
-   lessons/lessons.rst
-   about/about.rst
-   company_history/company_history.rst
 
 
