@@ -8,8 +8,6 @@ Welcome to Saxophone's documentation!
 
 Contents:
 
-`testimonials.rst`_
-
 .. toctree::
    :maxdepth: 2
 
