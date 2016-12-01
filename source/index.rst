@@ -17,5 +17,8 @@ Contents:
    sax_history/sax_history.rst
    concert_blog/concert_blog.rst
    testimonials/testimonials.rst
+   lessons/lessons.rst
+   about/about.rst
+   company_history/company_history.rst
 
 
