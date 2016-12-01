@@ -16,5 +16,6 @@ Contents:
    saxmusicians/saxmusicians.rst
    sax_history/sax_history.rst
    concert_blog/concert_blog.rst
+   testimonials/testimonials.rst
 
 
