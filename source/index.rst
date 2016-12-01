@@ -11,12 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   saxmusicians/saxmusicians.rst
+   
 
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 
