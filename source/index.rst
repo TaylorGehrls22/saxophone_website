@@ -13,8 +13,9 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   saxmusicians/saxmusicians.rst
+   saxophonemusicians/saxophonemusicians.rst
    saxophone_history/saxophone_history.rst
+   locations/locations.rst
 
 
 
