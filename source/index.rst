@@ -9,7 +9,7 @@ Welcome to the Saxophone Website!
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    saxophonemusicians/saxophonemusicians.rst
    saxophone_history/saxophone_history.rst
@@ -22,5 +22,8 @@ Contents:
    sax_history/sax_history.rst
    concert_blog/concert_blog.rst
    testimonials/testimonials.rst
+   about/about.rst
+   lessons/lessons.rst
+   company_history/company_history.rst
 
 
