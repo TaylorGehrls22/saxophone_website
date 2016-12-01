@@ -13,8 +13,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   products/products.rst
+   accessories/accessories.rst
    saxmusicians/saxmusicians.rst
-   saxophone_history/saxophone_history.rst
-
+   sax_history/sax_history.rst
+   concert_blog/concert_blog.rst
 
 
