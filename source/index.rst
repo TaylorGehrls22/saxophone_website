@@ -15,12 +15,7 @@ Contents:
    saxophone_history/saxophone_history.rst
    locations/locations.rst
    repair.rst/repair.rst
-<<<<<<< HEAD
    home.rst/home.rst
-
-=======
-=======
->>>>>>> 71a2dc866ddf69fa63f9f42600430cfd97cdb5d7
    products/products.rst
    accessories/accessories.rst
    saxmusicians/saxmusicians.rst
