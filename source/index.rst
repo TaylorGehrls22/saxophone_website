@@ -14,7 +14,7 @@ Contents:
    :maxdepth: 2
 
    saxmusicians/saxmusicians.rst
-   
+   saxophone_history/saxophone_history.rst
 
 
 
