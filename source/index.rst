@@ -18,7 +18,6 @@ Contents:
    home.rst/home.rst
    products/products.rst
    accessories/accessories.rst
-   saxmusicians/saxmusicians.rst
    sax_history/sax_history.rst
    concert_blog/concert_blog.rst
    testimonials/testimonials.rst
