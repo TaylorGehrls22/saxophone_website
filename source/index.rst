@@ -16,6 +16,7 @@ Contents:
    saxophone_history/saxophone_history.rst
    locations/locations.rst
    repair.rst/repair.rst
+   home.rst/home.rst
 
 =======
    products/products.rst
