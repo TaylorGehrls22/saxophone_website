@@ -11,18 +11,20 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
-   saxophonemusicians/saxophonemusicians.rst
-   saxophone_history/saxophone_history.rst
-   locations/locations.rst
-   repair/repair.rst
    home/home.rst
+   about/about.rst
+   company_history/company_history.rst
+   locations/locations.rst
    products/products.rst
    accessories/accessories.rst
-   sax_history/sax_history.rst
+   lessons/lessons.rst
+   sax_history/sax_history.rst   
+   saxophonemusicians/saxophonemusicians.rst
+   repair/repair.rst
    concert_blog/concert_blog.rst
    testimonials/testimonials.rst
-   about/about.rst
-   lessons/lessons.rst
-   company_history/company_history.rst
+
+
+
 
 
