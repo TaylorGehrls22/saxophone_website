@@ -22,6 +22,7 @@ still be closed on Christmas Day!**
 
 All Store Amenities
 ===============
+
 * In-Store Pickup: Too busy to spend time shopping in the store? Order online
 	and stop in and your convenience to pick up your order!
 * Service and Repair: Is your Saxophone broken? Let us fix it for you!
