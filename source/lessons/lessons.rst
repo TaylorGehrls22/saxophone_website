@@ -4,7 +4,7 @@ Lessons
 Lession Details:
 ----------------
 
-We offer lessons *Monday through Fridays from 8-5*. We have instructors that are able to teach to a variety of skilled musicians from beginner to professional. We recommend that if you are looking to take a lesson you have the following:
+We offer lessons **Monday through Fridays from 8-5**. We have instructors that are able to teach to a variety of skilled musicians from beginner to professional. We recommend that if you are looking to take a lesson you have the following:
 * saxophone
 * reeds 
 * music book
