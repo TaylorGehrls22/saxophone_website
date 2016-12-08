@@ -30,4 +30,4 @@ musicians and his career exploded after that.
 If you would like to further your knowledge of the greatest saxophone players, 
 please visit the website that is linked below.
 
-`Top Sax Musicians <http://jazz.about.com/od/resources/tp/10-Famous-Jazz-Saxophonists.htm>`_
+`Click here <http://jazz.about.com/od/resources/tp/10-Famous-Jazz-Saxophonists.htm>`_ to learn about top sax musicians!
