@@ -15,3 +15,9 @@ Adolphe Sax's C Bass Saxophone was the first to debut, appearing in a concert in
 In the 21st Century
 -------------------------------
 The popularity of the saxophone in France quickly rose that year. French military bands began to replace classic woodwind instruments with saxophone. As its popularity rose, the instrument changed. Keys added, rollers introduced. The introduction of jazz in the 1910s made saxophone an important part of pop culture.
+
+Saxophone has continued to be a staple of jazz, while frequently featured in rock and pop songs from Pink Floyd to Jason Derulo.
+
+------------------------------
+Types of Saxophones
+------------------------------
