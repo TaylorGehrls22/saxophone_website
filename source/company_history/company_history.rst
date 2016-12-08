@@ -2,6 +2,7 @@ Company History
 ===============
 
 History of Saxin' with Jackson
+------------------------------
 
 Saxin' with Jackson was started back in 1905 when Christopher Jackson got
 to play his uncle’s new saxophone. Christopher fell in love with the sound
