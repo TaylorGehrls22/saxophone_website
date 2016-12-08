@@ -6,8 +6,7 @@ Invented by Adolphe Sax in Belgium, the saxophone was meant to be a balance betw
 
 .. figure:: sax_alto.png
    :height: 100px
-   :align: center
-   
+
    An Alto Saxophone
 
 Adolphe Sax's C Bass Saxophone was the first to debut, appearing in a concert in France on February 3rd, 1844.
@@ -36,3 +35,20 @@ The most common saxophone is the alto saxophone (pictured above), and is the sta
    :height: 100px
 
    The Tenor Saxophone--second most popular type
+
+
+The third most popular saxophone is the baritone or bari. It is one of the lowest instruments in a common symphonic band. It is lower than the tenor but higher than the bass.
+
+----------------------
+Other Saxophones
+----------------------
+
+The soprano saxophone is another common type, made famous by jazz player Kenny G. Unlike the alto, tenor, or bari, the soprano saxophone is not curved. It is higher than the alto but less than another unique saxophone, the soprissimo.
+
+----------------------
+Strange Saxophones
+----------------------
+
+There are hundreds of different saxophone types. Inventors and enthusiasts regularly come up with increasingly strange and unique types of saxophones. Metal, plastic, slap, straight, slide, all highly rare and interesting. One of the most interesting types is the "Triangular Bore Slide Saxophone." It has a unique mechanic of allowing the player to jiggle the horn to create a different sound. The slide on the saxophone flops back and forth as it is jiggled.
+
+`Video of the Triangular Bore Slide Saxophone <https://www.youtube.com/watch?v=dNcd9Sk0gWc>`_
