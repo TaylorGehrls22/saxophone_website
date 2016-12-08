@@ -16,4 +16,8 @@ No one wants to play an instrument that isn’t performing at its best and here 
 Saxin’ with Jackson, we can make that happen.  When it comes to repairing a Saxophone, there
 are no short cuts. 
 
-PUT A TABLE HERE FOR PRICING
++-----------------+-------------------+-------------+
+|  Sax Look Over  | Broken Mouthpiece | Broken Neck |
++=================+===================+=============+
+|       $20       |         $40       |     $100    |
++-----------------+-------------------+-------------+ 
