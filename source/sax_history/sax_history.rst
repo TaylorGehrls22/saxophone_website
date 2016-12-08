@@ -22,22 +22,22 @@ Saxophone has continued to be a staple of jazz, while frequently featured in fam
 Types of Saxophones
 ------------------------------
 
-Although a more rare instrument since the turn of the 20th century, the saxophone first debuted by Adolphe Sax was a C Bass saxophone. The C Bass saxopone is unique for its long neck, huge body, and difficulty playing. It is one of the lowest saxophones, preceeding the contrabass and unplayable subcontrabass.
+Although a more rare instrument since the turn of the 20th century, the saxophone first debuted by Adolphe Sax was a C Bass saxophone. The C Bass saxopone is unique for its long neck, huge body, and learning curve. It is one of the lowest saxophones, preceeding the contrabass and unplayable subcontrabass.
 
 .. figure:: sax_bass.png
    :height: 100px
 
    A C Bass Saxophone
 
-The most common saxophone is the alto saxophone (pictured above), and is the starting saxophone for first learners. The second most common saxophone is the tenor saxophone and is lower than the alto but higher than the bass.
+The most common saxophone is the alto saxophone (pictured earlier), and is the starting saxophone for new players. The second most common saxophone is the tenor saxophone and is lower than the alto but higher than the bass.
 
 .. figure:: sax_tenor.png
    :height: 100px
 
-   The Tenor Saxophone--second most popular type
+   The Tenor Saxophone--second most common
 
 
-The third most popular saxophone is the baritone or bari. It is one of the lowest instruments in a common symphonic band. It is lower than the tenor but higher than the bass.
+The third most popular saxophone is the baritone or bari. It is one of the lowest instruments in a normal symphonic band. It is lower than the tenor but higher than the bass.
 
 ----------------------
 Other Saxophones
