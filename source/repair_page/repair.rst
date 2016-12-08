@@ -6,7 +6,7 @@ If your instrument is not playing at its peak performance, we want the chance to
 it over and return your instrument to its best!
 
 About Our Technicians
-=====================
+---------------------
 
 Our repair employees, Suzie and Larry, have many years of experience and knowledge
 in repairing your instruments. Together, they have a combined repair experience of over 40 years! 
