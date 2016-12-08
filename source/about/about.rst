@@ -1,6 +1,9 @@
 About
 =====
 
+About Saxin' with Jackson
+-------------------------
+
 Saxin' with Jackson is a saxophone company that was started in 1905 by 
 Christopher Jackson and his family. Their love and commitment to smooth
 jazz and jazz instruments has kept this company alive and thriving for
