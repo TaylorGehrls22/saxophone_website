@@ -7,6 +7,7 @@ Invented by Adolphe Sax in Belgium, the saxophone was meant to be a balance betw
 .. figure:: sax_alto.png
    :height: 100px
    :align: center
+   
    An Alto Saxophone
 
 Adolphe Sax's C Bass Saxophone was the first to debut, appearing in a concert in France on February 3rd, 1844.
