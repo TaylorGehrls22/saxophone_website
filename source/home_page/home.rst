@@ -20,7 +20,7 @@ With anything from history, to products and repairs, we have it all here
 at Saxin' with Jackson. Please navigate around our website and feel free 
 to contact us with any questions. 
 
-Our company is commited to giving back to the communities that we provide 
+Our company is committed to giving back to the communities that we provide 
 our business in. On average, we give back about $1,000,000 per year of our
 revenue to help our community improve itself. 
 
