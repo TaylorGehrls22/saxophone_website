@@ -52,3 +52,9 @@ Strange Saxophones
 There are hundreds of different saxophone types. Inventors and enthusiasts regularly come up with increasingly strange and unique types of saxophones. Metal, plastic, slap, straight, slide, all highly rare and interesting. One of the most interesting types is the "Triangular Bore Slide Saxophone." It has a unique mechanic of allowing the player to jiggle the horn to create a different sound. The slide on the saxophone flops back and forth as it is jiggled.
 
 `Video of the Triangular Bore Slide Saxophone <https://www.youtube.com/watch?v=dNcd9Sk0gWc>`_
+
+----------------------
+Our Saxophones
+----------------------
+
+Please visit our products page for information on the saxophone models we sell.
