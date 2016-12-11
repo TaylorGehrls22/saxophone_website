@@ -10,7 +10,12 @@ In-Store Customization
 ----------------------
 
 Our physical stores offer unique customization options. They can be found below. 
-**Different options can have effects on the production and shipping time. Some options warrant *special* shipping and packaging. These options are recommended at checkout time.**
+
+**Different options can have effects on the production and shipping time.**
+
+Some options warrant *special* shipping and packaging. 
+These options are recommended at checkout time.
+
 
 ============= ========== ====
 Customization Placement  Cost
@@ -51,6 +56,7 @@ Text 4 lines  Engraving   +92
 
 
 Standard Shipping Effects
+
 * Wood Keys and Plastic body each push back shipping by five business days.
 * Darkened Gold, Black with Gold Trim, and Adamant bodies each push back shipping by two weeks.
 * Text or name engraving push back shipping by two weeks.
