@@ -48,7 +48,10 @@ Text 2 lines  Engraving   +81
 Text 4 lines  Engraving   +92
 ============= ========== ====
 
+
+
 Standard Shipping Effects
+
 * Wood Keys and Plastic body each push back shipping by five business days.
 * Darkened Gold, Black with Gold Trim, and Adamant bodies each push back shipping by two weeks.
 * Text or name engraving push back shipping by two weeks.
