@@ -8,7 +8,9 @@ offers a wide variety of accessories to complement your saxophone. Many accessor
 We do not currently offer accessories on our online store. Our stores should have what you are looking for. We are happy to match price with customers if you bring in your receipt.
 **One price match allowed per purchase.**
 
+------------------------
 Accessories for purchase
+------------------------
 
 Each of our stores offers the same accessories so you can guarantee the same item will be at a different store. 
 
