@@ -39,7 +39,7 @@ The most common saxophone is the alto saxophone (pictured earlier), and is the s
 
 The third most popular saxophone is the baritone or bari. It is one of the lowest instruments in a normal symphonic band. It is lower than the tenor but higher than the bass.
 
-.. figure:: sax_bari.png
+.. figure:: sax_baritone.png
    :height: 100px
 
    The Baritone Saxophone--third most used saxophone
