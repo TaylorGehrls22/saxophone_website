@@ -22,7 +22,7 @@ I have a passion for music and the saxophone sound! I grew up right next door
 from Christopher Jackson’s old house and it gave me such an admiration
 for this company and the work we do! In my free time you can find me 
 with an old rusty saxophone playing some tunes or playing scrabble 
-with my family.
+with my family.  
 
 **Suzie:**
 
