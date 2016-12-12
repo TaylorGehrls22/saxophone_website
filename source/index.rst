@@ -22,7 +22,7 @@ Contents:
    saxophone_musicians/saxophonemusicians.rst
    repair_page/repair.rst
    concert_blog/concert_blog.rst
-   testimonials/testimonials.rst
+   Testimonials/testimonials.rst
 
 
 
